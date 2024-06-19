@@ -1,17 +1,17 @@
 @media screen and (max-width: 400px) {
     
 }
-body {background-color: blueviolet;
+body {background-color: rgb(250, 238, 217);
 border-style: groove;
-border-color: aqua;
+border-color: rgb(199, 155, 74);
 border-width: 10px;}
-h1 { color: chartreuse;}
+h1 { color: rgb(236, 152, 56);}
 
 .p4 { color: blanchedalmond; text-align: center;
 padding-bottom: 1%;
 padding-top: 1%;
 border-style: groove;
-border-color: aqua;
+border-color: rgb(252, 191, 113);
 border-width: 10px;
 margin-left: 25%;
 margin-right: 25%;}
